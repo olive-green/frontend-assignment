@@ -1,0 +1,60 @@
+{
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment Videos",
+      "cards": [
+        {
+          "id": 1,
+          "name": "The Office",
+          "link": "https://www.youtube.com/watch?v=DwPkJwN6pbE",
+          "playedAt": "2022-01-01T00:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "name": "Friends",
+          "link": "https://www.youtube.com/watch?v=DwPkJwN6pbE",
+          "playedAt": "2022-01-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Education Videos",
+      "cards": [
+        {
+          "id": 3,
+          "name": "History of the Internet",
+          "link": "https://www.youtube.com/watch?v=9hIQjrMHTv4",
+          "playedAt": "2022-01-03T00:00:00.000Z"
+        },
+        {
+          "id": 4,
+          "name": "Introduction to Machine Learning",
+          "link": "https://www.youtube.com/watch?v=9hIQjrMHTv4",
+          "playedAt": "2022-01-04T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "name": "The Office",
+      "link": "https://www.youtube.com/watch?v=DwPkJwN6pbE",
+      "playedAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "name": "Friends",
+      "link": "https://www.youtube.com/watch?v=DwPkJwN6pbE",
+      "playedAt": "2022-01-02T00:00:00.000Z"
+    }
+  ]
+}
